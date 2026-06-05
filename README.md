@@ -24,7 +24,6 @@ print(inverse)
 ```
 ## Output:
 <img width="1290" height="892" alt="image" src="https://github.com/user-attachments/assets/89075f0f-50c0-4540-ab09-b940459f9341" />
-<img width="1417" height="825" alt="image" src="https://github.com/user-attachments/assets/7b9e6004-de2b-441f-97d6-a26028f86792" />
 
 
 ## Result:
